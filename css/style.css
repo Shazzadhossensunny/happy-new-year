@@ -359,6 +359,7 @@ header {
   background: #f00;
   border: none;
   padding: 25px 45px;
+  cursor: pointer;
 }
 /* newsletter css end */
 /* footer css start */
